@@ -1,4 +1,4 @@
-# Johari Collaboration Window
+# Johari Skill
 
 这个 Codex skill 用乔哈里视窗（Johari Window）校准用户与 AI 的共同上下文，适用于协作分析、规划、决策和复杂问题解决。
 

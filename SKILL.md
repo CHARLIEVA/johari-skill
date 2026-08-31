@@ -1,5 +1,5 @@
 ---
-name: johari-collaboration-window
+name: johari-skill
 description: "Structure collaborative analysis, planning, decisions, and problem-solving with a Johari Window: identify what the user knows, likely omissions, what the AI still needs, and how to validate shared unknowns. Do not use for simple factual or one-step requests unless the user asks for it."
 ---
 
